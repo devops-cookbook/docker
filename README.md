@@ -19,5 +19,5 @@ This is a challenge repository! You must:
 ```
 
 ### Useful resources:
-Official documentation 101: https://docs.docker.com/v17.03/get-started/ 
-Docker-hub for inspiration and base images: https://hub.docker.com
+- Official documentation 101: https://docs.docker.com/v17.03/get-started/ 
+- Docker-hub for inspiration and base images: https://hub.docker.com
